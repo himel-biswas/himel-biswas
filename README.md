@@ -1,9 +1,9 @@
 # Hi I'm Himel 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-@ himel-biswas-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himel-biswas/)](https://www.linkedin.com/in/himel-biswas/)
-[![Twitter Badge](https://img.shields.io/badge/-@ himelb29-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eg_himel)](https://twitter.com/eg_himel)
-[![Instagram Badge](https://img.shields.io/badge/-@ himel.b-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/himel.b/)](https://www.instagram.com/himel.b/)
-[![Gmail Badge](https://img.shields.io/badge/-@ himelbiswas.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:himelbiswas.dev@gmail.com)](mailto:himelbiswas.dev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-himel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himel-biswas/)](https://www.linkedin.com/in/himel-biswas/)
+[![Twitter Badge](https://img.shields.io/badge/-@himelb29-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/himeb29)](https://twitter.com/eg_himel)
+[![Instagram Badge](https://img.shields.io/badge/-@himel.b-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/himel.b/)](https://www.instagram.com/himel.b/)
+[![Gmail Badge](https://img.shields.io/badge/-himelbiswas.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:himelbiswas.dev@gmail.com)](mailto:himelbiswas.dev@gmail.com)
 
 Welcome to my profile! I'm a software engineer. Currently working at [ascii-system](https://www.asciisys.com/). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/himel-biswas/)!
 
